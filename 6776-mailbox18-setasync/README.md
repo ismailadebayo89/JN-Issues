@@ -23,7 +23,7 @@ requirement-set check passing.
 
 No build step, no dependencies — static HTML/JS hosted on GitHub Pages.
 
-## How to reproduce (for Microsoft engineers)
+## How to reproduce
 
 1. Download [`manifest.xml`](./manifest.xml) from this folder.
 2. Sideload it: Outlook on the web → Settings (gear) → **View all
